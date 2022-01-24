@@ -1,6 +1,6 @@
 
 # Neon_Text
 
-Cool Neon Text With CSS, See the [Preview](https://breadomaticc.github.io/neontext)
+Cool Neon Text With CSS, See the [Preview](https://susbread.github.io/neontext)
 
 
